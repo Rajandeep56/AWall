@@ -55,9 +55,9 @@ Describe your data and the relationships between them. You can show this visuall
 
 ### Endpoints
 
-POST /post
-GET /post/:id
-GET /posts
+- POST /post
+- GET /post/:id
+- GET /posts
 ### Auth
 
 JWT
