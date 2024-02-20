@@ -45,10 +45,10 @@ Home [shows all the confessions]
 Create [user can create and publish a new confession]
 Details [user can comment on the confessions]
 ### Mockups
+![image](https://github.com/Rajandeep56/AWall/assets/73456764/db6e7a6c-b8a1-487f-8daf-ff6e08617f93)
+![image](https://github.com/Rajandeep56/AWall/assets/73456764/67cc963b-7d1f-4d2d-a485-1efe5bea3cd6)
+![image](https://github.com/Rajandeep56/AWall/assets/73456764/011c5e7b-ae82-4f8b-98b0-e85b96a1d761)
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-4.png)
 ### Data
 
 Describe your data and the relationships between them. You can show this visually using diagrams, or write it out. 
