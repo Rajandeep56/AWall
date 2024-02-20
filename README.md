@@ -25,7 +25,7 @@ Instant publishing of confessions once submitted.
 
 #### User Interaction - Comments:
 
-Implement the basic functionality for users to leave comments on confessions.
+Implementing the basic functionality for users to leave comments on confessions.
 
 ## Implementation
 
