@@ -82,12 +82,7 @@ Integrate Axios for communication with the backend.
 Create a form for users to submit confessions with styled components using Tailwind.
 
 ####  Day 4: Testing, Bug Fixing, and Deployment
-Conduct thorough testing of the application's functionality.
-Address any bugs or issues that arise during testing.
-Fine-tune styles with Tailwind CSS to ensure a polished appearance.
-Deploy the application on a hosting platform (Heroku, Netlify, etc.).
-Document the setup instructions and basic usage for future reference.
-Final testing on the deployed version.
+
 
 
 ## Nice-to-haves
