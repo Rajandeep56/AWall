@@ -1,0 +1,17 @@
+{
+  "name": "awall",
+  "version": "1.0.0",
+  "description": "It's your space for confessions, venting, and unbiased opinions. No ties, just your unfiltered voice on an open wall. Join the conversation, speak out, and connect anonymously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
