@@ -4,6 +4,7 @@
   "description": "It's your space for confessions, venting, and unbiased opinions. No ties, just your unfiltered voice on an open wall. Join the conversation, speak out, and connect anonymously.",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
