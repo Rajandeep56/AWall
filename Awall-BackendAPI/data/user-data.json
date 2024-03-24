@@ -1,1 +1,66 @@
-{"posts":[{"postId":1,"title":"Secrets Unveiled","category":"Secret Confessions","content":"Share your deepest secrets anonymously. No judgments, just understanding.","likes":56,"userId":101,"comments":[{"commentId":1,"userId":102,"comment":"Amazing post! Nature is truly breathtaking.","timestamp":"2024-02-18T12:30:00Z"},{"commentId":2,"userId":103,"comment":"I love the serene beauty captured in the picture.","timestamp":"2024-02-18T13:15:00Z"},{"commentId":"2014e543-340a-4818-a41f-0a2cbecca8c6","userId":"someUserId","comment":"This is a test comment."},{"commentId":"1d0dbb70-ce57-4135-a0b6-758bda47554d","userId":"1234","comment":"test"},{"commentId":"07380add-bb89-4ca4-98c5-a00a6c71c2a6","userId":"1234","comment":"testing"},{"commentId":"bd9dbb78-445d-4cb9-b6df-f19cf06bed25","userId":"1234","comment":"test"},{"commentId":"fe9f2009-e4cd-48f0-9107-664295c31c6c","userId":"1234","comment":"test"}]},{"postId":2,"title":"Anonymous Wonders","category":"Anonymous Sharing","content":"Express your thoughts and feelings without revealing your identity.","likes":34,"userId":104,"comments":[{"commentId":3,"userId":105,"comment":"Great insights into React development!","timestamp":"2024-02-18T14:00:00Z"},{"commentId":4,"userId":106,"comment":"I learned something new. Thanks for sharing!","timestamp":"2024-02-18T14:45:00Z"},{"commentId":"dfea6a77-50ef-49e7-98ae-432c72ce6c7a","userId":"1a2de346-7566-4f32-83eb-8310c83bb1b2","comment":"This is a test comment."},{"commentId":"e1ed1f2f-77f7-4de1-a43d-1cff24d063d5","userId":"6d75227b-1a04-4274-aba6-f837dde5ce2b","comment":"This is a test comment."},{"commentId":"12dde779-ac92-4005-a057-83209c218a62","userId":"73f82a4c-6bd7-432d-9e27-ba1b72c10ebc","comment":"This is a rajan test comment."},{"commentId":"83d3903e-2102-429f-b1eb-b6eb29d47228","userId":"1234","comment":"This is a rajan test comment."},{"commentId":"ea50c229-ca2c-4b99-a673-fe5b9dd07bf8","userId":"1234","comment":"This is a rajan test comment."},{"commentId":"f8edd12e-dc57-48c2-ab79-de2823dcd9cf","userId":"1234","comment":"This is a rajan test comment."}]},{"postId":3,"title":"True Confessions","category":"Confessional Stories","content":"Share true confessions and stories from your life journey.","likes":72,"userId":107,"comments":[{"commentId":5,"userId":108,"comment":"Deeply moving story. Thanks for sharing your experiences.","timestamp":"2024-02-18T15:30:00Z"},{"commentId":6,"userId":109,"comment":"Your honesty is truly commendable.","timestamp":"2024-02-18T16:15:00Z"}]},{"postId":4,"title":"Guilt-Free Pleasures","category":"Guilty Pleasures","content":"Confess your guilty pleasures and embrace them with pride.","likes":45,"userId":110,"comments":[{"commentId":7,"userId":111,"comment":"No judgment here! Embrace your pleasures.","timestamp":"2024-02-18T17:00:00Z"},{"commentId":8,"userId":112,"comment":"It's liberating to share our guilty pleasures.","timestamp":"2024-02-18T17:45:00Z"},{"commentId":"8196dce0-8360-4011-a78c-4e26bdb15279","userId":"bac0b1d3-4091-4159-a1c4-e026a67477f9","comment":"This is a test comment."}]},{"postId":5,"title":"Reflections of Regret","category":"Regrets and Reflections","content":"Reflect on past regrets and find solace in the wisdom gained.","likes":88,"userId":113,"comments":[{"commentId":9,"userId":114,"comment":"Your reflections are powerful. Learn and grow!","timestamp":"2024-02-18T18:30:00Z"},{"commentId":10,"userId":115,"comment":"Regret is a part of life. Thank you for sharing.","timestamp":"2024-02-18T19:15:00Z"},{"commentId":"17a209a5-0531-47c9-9947-1115965abb98","userId":"1234","comment":"test rajan"}]},{"postId":6,"title":"Journey to Redemption","category":"Forgiveness and Redemption","content":"Share stories of forgiveness and redemption on the path to healing.","likes":65,"userId":116,"comments":[{"commentId":11,"userId":117,"comment":"Your journey is inspiring. Keep moving forward!","timestamp":"2024-02-18T20:00:00Z"},{"commentId":12,"userId":118,"comment":"Forgiveness is a powerful act. Thank you for sharing.","timestamp":"2024-02-18T20:45:00Z"}]},{"postId":7,"title":"Confession of Love","category":"Romantic Confessions","content":"Declare your love for someone or share your romantic experiences.","likes":42,"userId":119,"comments":[{"commentId":13,"userId":120,"comment":"Love is beautiful! Best wishes to you.","timestamp":"2024-02-18T21:30:00Z"},{"commentId":14,"userId":121,"comment":"Your love story touched my heart.","timestamp":"2024-02-18T22:15:00Z"}]},{"postId":8,"title":"Adventures in Wanderlust","category":"Travel Adventures","content":"Share your thrilling travel experiences and wanderlust stories.","likes":60,"userId":122,"comments":[{"commentId":15,"userId":123,"comment":"Wow! Your travel tales are absolutely captivating.","timestamp":"2024-02-18T23:00:00Z"},{"commentId":16,"userId":124,"comment":"I feel inspired to embark on my own adventures.","timestamp":"2024-02-18T23:45:00Z"}]},{"postId":9,"title":"Life's Philosophies","category":"Philosophical Musings","content":"Share your philosophical thoughts and ponderings on life.","likes":53,"userId":125,"comments":[{"commentId":17,"userId":126,"comment":"Your philosophical reflections are thought-provoking.","timestamp":"2024-02-19T00:30:00Z"},{"commentId":18,"userId":127,"comment":"I resonate with your deep musings on life.","timestamp":"2024-02-19T01:15:00Z"}]},{"postId":10,"title":"Tech Tales","category":"Tech Confessions","content":"Confess your tech-related stories and experiences in the digital world.","likes":78,"userId":128,"comments":[{"commentId":19,"userId":129,"comment":"Tech adventures are always interesting. Share more!","timestamp":"2024-02-19T02:00:00Z"},{"commentId":20,"userId":130,"comment":"Your tech confessions resonate with many in the community.","timestamp":"2024-02-19T02:45:00Z"},{"commentId":"ea373b47-dd46-4a6c-8769-351c9b1cf770","userId":"1234","comment":"test yuijhn"}]},{"postId":"8e146855-aefe-438a-b7f2-c971eeae2f04","title":"New Confession","content":"This is a new confession.","category":"Anonymous Sharing","likes":8,"comments":[{"commentId":"44da82c6-f653-421c-b57e-aa50a72d6fdd","userId":"1234","comment":"testing new comment"},{"commentId":"bed1edd4-51b3-4f33-a2f9-5e580003f1b5","userId":"1234","comment":"test"}]},{"postId":"778902f5-985d-4132-b2f3-ce60e0ffd2bc","title":"test","content":"test","category":"Travel Adventures","likes":0,"comments":[{"commentId":"e819fd9c-8033-4fd2-bfff-d1a2af3b9030","userId":"1234","comment":"testing comment"}]},{"postId":"11bd849c-de0d-41d9-b051-073f0b13d643","title":"testing post","content":"post tested","category":"Secret Confessions","likes":0,"comments":[]},{"postId":"eba348f7-43c7-448a-b922-83550692c5c2","title":"testrsafgh","content":"ygc m","category":"Travel Adventures","likes":2,"comments":[]},{"postId":"8711b934-4e39-4243-99ab-e124fa7eeab2","title":"testing","content":"testing","category":"Guilty Pleasures","likes":3,"comments":[{"commentId":"b5aca9f1-bfc8-4beb-b5cd-7ba9e628d9c4","userId":"1234","comment":"testing"}]},{"postId":"665ae560-080f-445b-8d3c-b2b068c16f0c","title":"regrets","content":"regrets","category":"Regrets and Reflections","likes":1,"comments":[{"commentId":"36579476-c08b-4e14-848b-c9073efbd877","userId":"1234","comment":"test"}]}]}
+{
+    "posts": [
+      {
+        "postId": 1,
+        "title": "Exploring the Beauty of Nature",
+        "picture": "nature.jpg",
+        "postDetails": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+        "userId": 101,
+        "likes": 56,
+        "comments": [
+          {
+            "commentId": 1,
+            "userId": 102,
+            "comment": "Amazing post! Nature is truly breathtaking.",
+            "timestamp": "2024-02-18T12:30:00Z"
+          },
+          {
+            "commentId": 2,
+            "userId": 103,
+            "comment": "I love the serene beauty captured in the picture.",
+            "timestamp": "2024-02-18T13:15:00Z"
+          }
+        ]
+      },
+      {
+        "postId": 2,
+        "title": "Coding Adventures in React",
+        "picture": "coding.jpg",
+        "postDetails": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore...",
+        "userId": 104,
+        "likes": 34,
+        "comments": [
+          {
+            "commentId": 3,
+            "userId": 105,
+            "comment": "Great insights into React development!",
+            "timestamp": "2024-02-18T14:00:00Z"
+          },
+          {
+            "commentId": 4,
+            "userId": 106,
+            "comment": "I learned something new. Thanks for sharing!",
+            "timestamp": "2024-02-18T14:45:00Z"
+          }
+        ]
+      }
+    ],
+    "users": [
+      {
+        "userId": 101,
+        "username": "naturelover",
+        "fullName": "Alice Johnson"
+      },
+      {
+        "userId": 102,
+        "username": "adventureseeker",
+        "fullName": "Bob Anderson"
+      },
+      {
+        "userId": 103,
+        "username": "photographyenthusiast",
+        "fullName": "Eva Smith"
+      }
+        ]
+  }
+  
